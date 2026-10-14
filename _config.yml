@@ -1,0 +1,5 @@
+title: TotalLab security
+description: Security advisories and vulnerability disclosure for TotalLab products
+# Serve .well-known/security.txt and the CSAF files as they are.
+include: [".well-known"]
+exclude: [README.md]

@@ -1,0 +1,5 @@
+Contact: mailto:security@totallab.com
+Expires: 2027-10-14T17:36:55Z
+Policy: https://security.totallab.com/policy
+Canonical: https://security.totallab.com/.well-known/security.txt
+Preferred-Languages: en
